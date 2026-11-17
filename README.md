@@ -64,7 +64,8 @@ SGR-Hotel-Boutique/
 └── EVALUACION 2/
     ├── InformeEjecutivoHotelBoutique.docx
     ├── Matriz_Control_de_Cambio_Hotel_Boutique (1).xlsx
-    └── Matriz_de_Riesgos_Hotel_Boutique (1).xlsx
+    ├── Matriz_de_Riesgos_Hotel_Boutique (1).xlsx
+    └── Tablero Trello.md                  # Enlace al tablero de monitoreo y control
 ```
 
 ### Evaluación 1 — Planificación del proyecto
@@ -83,3 +84,4 @@ SGR-Hotel-Boutique/
 | Informe Ejecutivo | Informe del estado y avance del proyecto. |
 | Matriz de Riesgos | Identificación, evaluación y plan de respuesta a riesgos. |
 | Matriz de Control de Cambios | Registro y evaluación de las solicitudes de cambio del proyecto. |
+| [Tablero Trello](https://trello.com/b/q5q8Izad/sgr-hotel-boutique-monitoreo-y-control) | Tablero de monitoreo y control del avance del proyecto. |
